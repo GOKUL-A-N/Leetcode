@@ -24,8 +24,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/GOKUL-A-N/Leetcode/tree/master/0075-sort-colors) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GOKUL-A-N/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/GOKUL-A-N/Leetcode/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GOKUL-A-N/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 <!---LeetCode Topics End-->
