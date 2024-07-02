@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/GOKUL-A-N/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/GOKUL-A-N/Leetcode/tree/master/0075-sort-colors) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GOKUL-A-N/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
@@ -33,4 +34,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GOKUL-A-N/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/GOKUL-A-N/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/GOKUL-A-N/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
