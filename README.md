@@ -25,15 +25,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/GOKUL-A-N/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/GOKUL-A-N/Leetcode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/GOKUL-A-N/Leetcode/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GOKUL-A-N/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0695-max-area-of-island](https://github.com/GOKUL-A-N/Leetcode/tree/master/0695-max-area-of-island) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/GOKUL-A-N/Leetcode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/GOKUL-A-N/Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/GOKUL-A-N/Leetcode/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GOKUL-A-N/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Binary Search
 |  |
