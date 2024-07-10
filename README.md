@@ -18,10 +18,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/GOKUL-A-N/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/GOKUL-A-N/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/GOKUL-A-N/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/GOKUL-A-N/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 ## Array
 |  |
@@ -79,4 +81,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/GOKUL-A-N/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/GOKUL-A-N/Leetcode/tree/master/0695-max-area-of-island) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/GOKUL-A-N/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
