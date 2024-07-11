@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/GOKUL-A-N/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/GOKUL-A-N/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GOKUL-A-N/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/GOKUL-A-N/Leetcode/tree/master/0344-reverse-string) |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/GOKUL-A-N/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/GOKUL-A-N/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/GOKUL-A-N/Leetcode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/GOKUL-A-N/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/GOKUL-A-N/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GOKUL-A-N/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -121,4 +123,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/GOKUL-A-N/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
