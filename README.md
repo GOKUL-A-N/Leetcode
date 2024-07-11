@@ -95,4 +95,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Database
+|  |
+| ------- |
+| [1179-game-play-analysis-i](https://github.com/GOKUL-A-N/Leetcode/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
