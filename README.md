@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/GOKUL-A-N/Leetcode/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Database
 |  |
 | ------- |
