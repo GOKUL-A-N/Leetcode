@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/GOKUL-A-N/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/GOKUL-A-N/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/GOKUL-A-N/Leetcode/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -90,10 +91,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/GOKUL-A-N/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/GOKUL-A-N/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Database
 |  |
