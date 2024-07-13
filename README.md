@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/GOKUL-A-N/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/GOKUL-A-N/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/GOKUL-A-N/Leetcode/tree/master/0567-permutation-in-string) |
+| [3194-find-words-containing-character](https://github.com/GOKUL-A-N/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Linked List
 |  |
 | ------- |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/GOKUL-A-N/Leetcode/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GOKUL-A-N/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0695-max-area-of-island](https://github.com/GOKUL-A-N/Leetcode/tree/master/0695-max-area-of-island) |
+| [3194-find-words-containing-character](https://github.com/GOKUL-A-N/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Sorting
 |  |
 | ------- |
