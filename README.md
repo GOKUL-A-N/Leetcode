@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/GOKUL-A-N/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/GOKUL-A-N/Leetcode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/GOKUL-A-N/Leetcode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/GOKUL-A-N/Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/GOKUL-A-N/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GOKUL-A-N/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/GOKUL-A-N/Leetcode/tree/master/0200-number-of-islands) |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/GOKUL-A-N/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/GOKUL-A-N/Leetcode/tree/master/0055-jump-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -176,4 +178,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/GOKUL-A-N/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/GOKUL-A-N/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
