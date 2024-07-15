@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0237-delete-node-in-a-linked-list](https://github.com/GOKUL-A-N/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/GOKUL-A-N/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/GOKUL-A-N/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2573-remove-nodes-from-linked-list](https://github.com/GOKUL-A-N/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/GOKUL-A-N/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0024-swap-nodes-in-pairs](https://github.com/GOKUL-A-N/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/GOKUL-A-N/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/GOKUL-A-N/Leetcode/tree/master/0206-reverse-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/GOKUL-A-N/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -172,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/GOKUL-A-N/Leetcode/tree/master/0143-reorder-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/GOKUL-A-N/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Number Theory
 |  |
 | ------- |
@@ -184,4 +187,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/GOKUL-A-N/Leetcode/tree/master/0055-jump-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/GOKUL-A-N/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
