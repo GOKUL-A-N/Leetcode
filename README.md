@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2876-number-of-employees-who-met-the-target](https://github.com/GOKUL-A-N/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/GOKUL-A-N/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3373-maximum-prime-difference](https://github.com/GOKUL-A-N/Leetcode/tree/master/3373-maximum-prime-difference) |
+| [3463-alternating-groups-i](https://github.com/GOKUL-A-N/Leetcode/tree/master/3463-alternating-groups-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/GOKUL-A-N/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
 |  |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/GOKUL-A-N/Leetcode/tree/master/0567-permutation-in-string) |
+| [3463-alternating-groups-i](https://github.com/GOKUL-A-N/Leetcode/tree/master/3463-alternating-groups-i) |
 ## Stack
 |  |
 | ------- |
