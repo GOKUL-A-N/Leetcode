@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/GOKUL-A-N/Leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/GOKUL-A-N/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/GOKUL-A-N/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/GOKUL-A-N/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/GOKUL-A-N/Leetcode/tree/master/0695-max-area-of-island) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/GOKUL-A-N/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/GOKUL-A-N/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/GOKUL-A-N/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/GOKUL-A-N/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/GOKUL-A-N/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/GOKUL-A-N/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/GOKUL-A-N/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
 |  |
 | ------- |
