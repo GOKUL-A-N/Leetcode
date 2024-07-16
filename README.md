@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2470-removing-stars-from-a-string](https://github.com/GOKUL-A-N/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3194-find-words-containing-character](https://github.com/GOKUL-A-N/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/GOKUL-A-N/Leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
+| [3379-score-of-a-string](https://github.com/GOKUL-A-N/Leetcode/tree/master/3379-score-of-a-string) |
 ## Linked List
 |  |
 | ------- |
