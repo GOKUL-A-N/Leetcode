@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3194-find-words-containing-character](https://github.com/GOKUL-A-N/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/GOKUL-A-N/Leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3379-score-of-a-string](https://github.com/GOKUL-A-N/Leetcode/tree/master/3379-score-of-a-string) |
+| [3468-find-the-encrypted-string](https://github.com/GOKUL-A-N/Leetcode/tree/master/3468-find-the-encrypted-string) |
 ## Linked List
 |  |
 | ------- |
