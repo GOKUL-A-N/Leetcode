@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3194-find-words-containing-character](https://github.com/GOKUL-A-N/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/GOKUL-A-N/Leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3379-score-of-a-string](https://github.com/GOKUL-A-N/Leetcode/tree/master/3379-score-of-a-string) |
+| [3447-clear-digits](https://github.com/GOKUL-A-N/Leetcode/tree/master/3447-clear-digits) |
 | [3468-find-the-encrypted-string](https://github.com/GOKUL-A-N/Leetcode/tree/master/3468-find-the-encrypted-string) |
 ## Linked List
 |  |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GOKUL-A-N/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/GOKUL-A-N/Leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/GOKUL-A-N/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3447-clear-digits](https://github.com/GOKUL-A-N/Leetcode/tree/master/3447-clear-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -222,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/GOKUL-A-N/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2470-removing-stars-from-a-string](https://github.com/GOKUL-A-N/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [3447-clear-digits](https://github.com/GOKUL-A-N/Leetcode/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
