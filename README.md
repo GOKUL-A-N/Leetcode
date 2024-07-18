@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3373-maximum-prime-difference](https://github.com/GOKUL-A-N/Leetcode/tree/master/3373-maximum-prime-difference) |
 | [3463-alternating-groups-i](https://github.com/GOKUL-A-N/Leetcode/tree/master/3463-alternating-groups-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/GOKUL-A-N/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/GOKUL-A-N/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Sorting
 |  |
 | ------- |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/GOKUL-A-N/Leetcode/tree/master/0002-add-two-numbers) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/GOKUL-A-N/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3373-maximum-prime-difference](https://github.com/GOKUL-A-N/Leetcode/tree/master/3373-maximum-prime-difference) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/GOKUL-A-N/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Tree
 |  |
 | ------- |
