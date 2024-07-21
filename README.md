@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2844-sum-of-squares-of-special-elements](https://github.com/GOKUL-A-N/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/GOKUL-A-N/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/GOKUL-A-N/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3226-minimum-number-game](https://github.com/GOKUL-A-N/Leetcode/tree/master/3226-minimum-number-game) |
 | [3373-maximum-prime-difference](https://github.com/GOKUL-A-N/Leetcode/tree/master/3373-maximum-prime-difference) |
 | [3463-alternating-groups-i](https://github.com/GOKUL-A-N/Leetcode/tree/master/3463-alternating-groups-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/GOKUL-A-N/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/GOKUL-A-N/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/GOKUL-A-N/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/GOKUL-A-N/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3226-minimum-number-game](https://github.com/GOKUL-A-N/Leetcode/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/GOKUL-A-N/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
 |  |
@@ -246,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2274-keep-multiplying-found-values-by-two](https://github.com/GOKUL-A-N/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/GOKUL-A-N/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2470-removing-stars-from-a-string](https://github.com/GOKUL-A-N/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [3226-minimum-number-game](https://github.com/GOKUL-A-N/Leetcode/tree/master/3226-minimum-number-game) |
 | [3447-clear-digits](https://github.com/GOKUL-A-N/Leetcode/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
@@ -264,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/GOKUL-A-N/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [3226-minimum-number-game](https://github.com/GOKUL-A-N/Leetcode/tree/master/3226-minimum-number-game) |
 ## Quickselect
 |  |
 | ------- |
