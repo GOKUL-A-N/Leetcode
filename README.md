@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/GOKUL-A-N/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/GOKUL-A-N/Leetcode/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/GOKUL-A-N/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0046-permutations](https://github.com/GOKUL-A-N/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/GOKUL-A-N/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/GOKUL-A-N/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/GOKUL-A-N/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/GOKUL-A-N/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/GOKUL-A-N/Leetcode/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
