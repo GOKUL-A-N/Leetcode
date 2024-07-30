@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/GOKUL-A-N/Leetcode/tree/master/0695-max-area-of-island) |
 | [1127-last-stone-weight](https://github.com/GOKUL-A-N/Leetcode/tree/master/1127-last-stone-weight) |
 | [1319-unique-number-of-occurrences](https://github.com/GOKUL-A-N/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/GOKUL-A-N/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/GOKUL-A-N/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2634-minimum-common-value](https://github.com/GOKUL-A-N/Leetcode/tree/master/2634-minimum-common-value) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/GOKUL-A-N/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
