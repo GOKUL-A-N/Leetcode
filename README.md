@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/GOKUL-A-N/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/GOKUL-A-N/Leetcode/tree/master/0221-maximal-square) |
 | [0349-intersection-of-two-arrays](https://github.com/GOKUL-A-N/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/GOKUL-A-N/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GOKUL-A-N/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0695-max-area-of-island](https://github.com/GOKUL-A-N/Leetcode/tree/master/0695-max-area-of-island) |
 | [1127-last-stone-weight](https://github.com/GOKUL-A-N/Leetcode/tree/master/1127-last-stone-weight) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/GOKUL-A-N/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/GOKUL-A-N/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/GOKUL-A-N/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/GOKUL-A-N/Leetcode/tree/master/0414-third-maximum-number) |
 | [0692-top-k-frequent-words](https://github.com/GOKUL-A-N/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/GOKUL-A-N/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3226-minimum-number-game](https://github.com/GOKUL-A-N/Leetcode/tree/master/3226-minimum-number-game) |
