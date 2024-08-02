@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/GOKUL-A-N/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/GOKUL-A-N/Leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/GOKUL-A-N/Leetcode/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/GOKUL-A-N/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -333,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/GOKUL-A-N/Leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/GOKUL-A-N/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/GOKUL-A-N/Leetcode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/GOKUL-A-N/Leetcode/tree/master/0118-pascals-triangle) |
@@ -376,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/GOKUL-A-N/Leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/GOKUL-A-N/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/GOKUL-A-N/Leetcode/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/GOKUL-A-N/Leetcode/tree/master/0257-binary-tree-paths) |
