@@ -1,7 +1,7 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
         List<List<Integer>> res = new ArrayList<>();
-
+        
 
         if(nums.length == 1){
             List<Integer> singleList = new ArrayList<>();
@@ -14,19 +14,14 @@ class Solution {
             int[] rem = new int[nums.length-1];
             int idx = 0;
             for(int j=0;j<nums.length;j++){
-                if(j != i){
-                    rem[idx++] = nums[j];
-                }
+                if(i!=j) rem[idx++] = nums[j];
             }
-
             List<List<Integer>> perms = permute(rem);
 
-            for(List<Integer> perm:perms){
+            for(List<Integer> perm: perms){
                 perm.add(n);
-                res.add(new ArrayList<>(perm));
+                res.add(perm);
             }
-
-
         }
         return res;
     }
