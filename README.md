@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1127-last-stone-weight](https://github.com/GOKUL-A-N/Leetcode/tree/master/1127-last-stone-weight) |
 | [1319-unique-number-of-occurrences](https://github.com/GOKUL-A-N/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/GOKUL-A-N/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/GOKUL-A-N/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/GOKUL-A-N/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2634-minimum-common-value](https://github.com/GOKUL-A-N/Leetcode/tree/master/2634-minimum-common-value) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/GOKUL-A-N/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/GOKUL-A-N/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/GOKUL-A-N/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/GOKUL-A-N/Leetcode/tree/master/0948-sort-an-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/GOKUL-A-N/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/GOKUL-A-N/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3226-minimum-number-game](https://github.com/GOKUL-A-N/Leetcode/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/GOKUL-A-N/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -147,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/GOKUL-A-N/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/GOKUL-A-N/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1319-unique-number-of-occurrences](https://github.com/GOKUL-A-N/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/GOKUL-A-N/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/GOKUL-A-N/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2634-minimum-common-value](https://github.com/GOKUL-A-N/Leetcode/tree/master/2634-minimum-common-value) |
 | [3447-clear-digits](https://github.com/GOKUL-A-N/Leetcode/tree/master/3447-clear-digits) |
