@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/GOKUL-A-N/Leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/GOKUL-A-N/Leetcode/tree/master/0062-unique-paths) |
+| [0096-unique-binary-search-trees](https://github.com/GOKUL-A-N/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GOKUL-A-N/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1013-fibonacci-number](https://github.com/GOKUL-A-N/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/GOKUL-A-N/Leetcode/tree/master/1086-divisor-game) |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/GOKUL-A-N/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/GOKUL-A-N/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -270,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/GOKUL-A-N/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/GOKUL-A-N/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -305,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/GOKUL-A-N/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GOKUL-A-N/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -355,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/GOKUL-A-N/Leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/GOKUL-A-N/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/GOKUL-A-N/Leetcode/tree/master/0062-unique-paths) |
+| [0096-unique-binary-search-trees](https://github.com/GOKUL-A-N/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/GOKUL-A-N/Leetcode/tree/master/0118-pascals-triangle) |
 | [0221-maximal-square](https://github.com/GOKUL-A-N/Leetcode/tree/master/0221-maximal-square) |
 | [1013-fibonacci-number](https://github.com/GOKUL-A-N/Leetcode/tree/master/1013-fibonacci-number) |
