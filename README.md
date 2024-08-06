@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GOKUL-A-N/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/GOKUL-A-N/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/GOKUL-A-N/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GOKUL-A-N/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/GOKUL-A-N/Leetcode/tree/master/0948-sort-an-array) |
 ## Depth-First Search
@@ -447,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/GOKUL-A-N/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/GOKUL-A-N/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/GOKUL-A-N/Leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/GOKUL-A-N/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Design
 |  |
 | ------- |
