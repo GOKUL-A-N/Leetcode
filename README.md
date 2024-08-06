@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/GOKUL-A-N/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/GOKUL-A-N/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/GOKUL-A-N/Leetcode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/GOKUL-A-N/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/GOKUL-A-N/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/GOKUL-A-N/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/GOKUL-A-N/Leetcode/tree/master/0078-subsets) |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/GOKUL-A-N/Leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/GOKUL-A-N/Leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/GOKUL-A-N/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/GOKUL-A-N/Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/GOKUL-A-N/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GOKUL-A-N/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
