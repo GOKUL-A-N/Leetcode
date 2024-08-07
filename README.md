@@ -219,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/GOKUL-A-N/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0695-max-area-of-island](https://github.com/GOKUL-A-N/Leetcode/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/GOKUL-A-N/Leetcode/tree/master/0744-network-delay-time) |
 | [0904-leaf-similar-trees](https://github.com/GOKUL-A-N/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/GOKUL-A-N/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/GOKUL-A-N/Leetcode/tree/master/0463-island-perimeter) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/GOKUL-A-N/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/GOKUL-A-N/Leetcode/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/GOKUL-A-N/Leetcode/tree/master/0744-network-delay-time) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Union Find
 |  |
@@ -429,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/GOKUL-A-N/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/GOKUL-A-N/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/GOKUL-A-N/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0744-network-delay-time](https://github.com/GOKUL-A-N/Leetcode/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GOKUL-A-N/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/GOKUL-A-N/Leetcode/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/GOKUL-A-N/Leetcode/tree/master/1127-last-stone-weight) |
@@ -524,4 +527,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/GOKUL-A-N/Leetcode/tree/master/0133-clone-graph) |
+| [0744-network-delay-time](https://github.com/GOKUL-A-N/Leetcode/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/GOKUL-A-N/Leetcode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
