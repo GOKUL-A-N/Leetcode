@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/GOKUL-A-N/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0551-student-attendance-record-i](https://github.com/GOKUL-A-N/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/GOKUL-A-N/Leetcode/tree/master/0567-permutation-in-string) |
+| [0606-construct-string-from-binary-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0692-top-k-frequent-words](https://github.com/GOKUL-A-N/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0874-backspace-string-compare](https://github.com/GOKUL-A-N/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0990-verifying-an-alien-dictionary](https://github.com/GOKUL-A-N/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/GOKUL-A-N/Leetcode/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/GOKUL-A-N/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0695-max-area-of-island](https://github.com/GOKUL-A-N/Leetcode/tree/master/0695-max-area-of-island) |
@@ -293,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/GOKUL-A-N/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/GOKUL-A-N/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -329,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/GOKUL-A-N/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/GOKUL-A-N/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/GOKUL-A-N/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
