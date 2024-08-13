@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3379-score-of-a-string](https://github.com/GOKUL-A-N/Leetcode/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/GOKUL-A-N/Leetcode/tree/master/3447-clear-digits) |
 | [3468-find-the-encrypted-string](https://github.com/GOKUL-A-N/Leetcode/tree/master/3468-find-the-encrypted-string) |
+| [3533-snake-in-matrix](https://github.com/GOKUL-A-N/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3463-alternating-groups-i](https://github.com/GOKUL-A-N/Leetcode/tree/master/3463-alternating-groups-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/GOKUL-A-N/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/GOKUL-A-N/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3533-snake-in-matrix](https://github.com/GOKUL-A-N/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -413,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2470-removing-stars-from-a-string](https://github.com/GOKUL-A-N/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3226-minimum-number-game](https://github.com/GOKUL-A-N/Leetcode/tree/master/3226-minimum-number-game) |
 | [3447-clear-digits](https://github.com/GOKUL-A-N/Leetcode/tree/master/3447-clear-digits) |
+| [3533-snake-in-matrix](https://github.com/GOKUL-A-N/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
