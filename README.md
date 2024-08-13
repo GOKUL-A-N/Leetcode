@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/GOKUL-A-N/Leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3379-score-of-a-string](https://github.com/GOKUL-A-N/Leetcode/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/GOKUL-A-N/Leetcode/tree/master/3447-clear-digits) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/GOKUL-A-N/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3468-find-the-encrypted-string](https://github.com/GOKUL-A-N/Leetcode/tree/master/3468-find-the-encrypted-string) |
 | [3533-snake-in-matrix](https://github.com/GOKUL-A-N/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Linked List
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/GOKUL-A-N/Leetcode/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/GOKUL-A-N/Leetcode/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/GOKUL-A-N/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/GOKUL-A-N/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Array
 |  |
 | ------- |
@@ -482,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/GOKUL-A-N/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/GOKUL-A-N/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/GOKUL-A-N/Leetcode/tree/master/0191-number-of-1-bits) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/GOKUL-A-N/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Design
 |  |
 | ------- |
