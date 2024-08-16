@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/GOKUL-A-N/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/GOKUL-A-N/Leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/GOKUL-A-N/Leetcode/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/GOKUL-A-N/Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/GOKUL-A-N/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/GOKUL-A-N/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/GOKUL-A-N/Leetcode/tree/master/0242-valid-anagram) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/GOKUL-A-N/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/GOKUL-A-N/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/GOKUL-A-N/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/GOKUL-A-N/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/GOKUL-A-N/Leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GOKUL-A-N/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/GOKUL-A-N/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -291,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/GOKUL-A-N/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/GOKUL-A-N/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/GOKUL-A-N/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/GOKUL-A-N/Leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/GOKUL-A-N/Leetcode/tree/master/0221-maximal-square) |
 | [0463-island-perimeter](https://github.com/GOKUL-A-N/Leetcode/tree/master/0463-island-perimeter) |
@@ -509,6 +512,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/GOKUL-A-N/Leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/GOKUL-A-N/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/GOKUL-A-N/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/GOKUL-A-N/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/GOKUL-A-N/Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/GOKUL-A-N/Leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/GOKUL-A-N/Leetcode/tree/master/0257-binary-tree-paths) |
