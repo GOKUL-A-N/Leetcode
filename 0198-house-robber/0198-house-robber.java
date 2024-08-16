@@ -1,11 +1,12 @@
 class Solution {
     public int rob(int[] nums) {
-        int odd = 0;
-        int even = 0;
-        for(int i=0;i<nums.length;i++){
-            if(i % 2 == 0) odd += nums[i];
-            else even += nums[i];
+        int rob1 = 0;
+        int rob2 = 0;
+        for(int n:nums){
+            int temp = Math.max(n+rob1,rob2);
+            rob1 = rob2;
+            rob2  =temp;
         }
-        return (odd > even) ? odd : even;
+        return rob2;
     }
 }
