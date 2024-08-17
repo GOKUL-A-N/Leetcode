@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-backspace-string-compare](https://github.com/GOKUL-A-N/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0941-sort-array-by-parity](https://github.com/GOKUL-A-N/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/GOKUL-A-N/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/GOKUL-A-N/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2634-minimum-common-value](https://github.com/GOKUL-A-N/Leetcode/tree/master/2634-minimum-common-value) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/GOKUL-A-N/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0816-design-hashset](https://github.com/GOKUL-A-N/Leetcode/tree/master/0816-design-hashset) |
 | [1765-merge-in-between-linked-lists](https://github.com/GOKUL-A-N/Leetcode/tree/master/1765-merge-in-between-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/GOKUL-A-N/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/GOKUL-A-N/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/GOKUL-A-N/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/GOKUL-A-N/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/GOKUL-A-N/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -461,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/GOKUL-A-N/Leetcode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/GOKUL-A-N/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0883-car-fleet](https://github.com/GOKUL-A-N/Leetcode/tree/master/0883-car-fleet) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/GOKUL-A-N/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/GOKUL-A-N/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/GOKUL-A-N/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Number Theory
