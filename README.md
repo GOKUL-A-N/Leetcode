@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/GOKUL-A-N/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1706-min-cost-to-connect-all-points](https://github.com/GOKUL-A-N/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/GOKUL-A-N/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/GOKUL-A-N/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/GOKUL-A-N/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/GOKUL-A-N/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2634-minimum-common-value](https://github.com/GOKUL-A-N/Leetcode/tree/master/2634-minimum-common-value) |
@@ -327,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/GOKUL-A-N/Leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/GOKUL-A-N/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1086-divisor-game](https://github.com/GOKUL-A-N/Leetcode/tree/master/1086-divisor-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/GOKUL-A-N/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/GOKUL-A-N/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3371-harshad-number](https://github.com/GOKUL-A-N/Leetcode/tree/master/3371-harshad-number) |
 | [3373-maximum-prime-difference](https://github.com/GOKUL-A-N/Leetcode/tree/master/3373-maximum-prime-difference) |
@@ -498,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/GOKUL-A-N/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/GOKUL-A-N/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/GOKUL-A-N/Leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 ## Heap (Priority Queue)
@@ -541,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/GOKUL-A-N/Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/GOKUL-A-N/Leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/GOKUL-A-N/Leetcode/tree/master/0257-binary-tree-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/GOKUL-A-N/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -548,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/GOKUL-A-N/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/GOKUL-A-N/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/GOKUL-A-N/Leetcode/tree/master/0191-number-of-1-bits) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/GOKUL-A-N/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/GOKUL-A-N/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Design
 |  |
@@ -584,6 +589,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/GOKUL-A-N/Leetcode/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/GOKUL-A-N/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Memoization
 |  |
 | ------- |
