@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/GOKUL-A-N/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/GOKUL-A-N/Leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/GOKUL-A-N/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/GOKUL-A-N/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0874-backspace-string-compare](https://github.com/GOKUL-A-N/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0941-sort-array-by-parity](https://github.com/GOKUL-A-N/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/GOKUL-A-N/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GOKUL-A-N/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/GOKUL-A-N/Leetcode/tree/master/0463-island-perimeter) |
 | [0624-maximum-distance-in-arrays](https://github.com/GOKUL-A-N/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0658-find-k-closest-elements](https://github.com/GOKUL-A-N/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/GOKUL-A-N/Leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/GOKUL-A-N/Leetcode/tree/master/0739-daily-temperatures) |
 | [0816-design-hashset](https://github.com/GOKUL-A-N/Leetcode/tree/master/0816-design-hashset) |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/GOKUL-A-N/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/GOKUL-A-N/Leetcode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/GOKUL-A-N/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/GOKUL-A-N/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/GOKUL-A-N/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0883-car-fleet](https://github.com/GOKUL-A-N/Leetcode/tree/master/0883-car-fleet) |
 | [0941-sort-array-by-parity](https://github.com/GOKUL-A-N/Leetcode/tree/master/0941-sort-array-by-parity) |
@@ -238,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GOKUL-A-N/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/GOKUL-A-N/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GOKUL-A-N/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0658-find-k-closest-elements](https://github.com/GOKUL-A-N/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0907-koko-eating-bananas](https://github.com/GOKUL-A-N/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/GOKUL-A-N/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1753-path-with-minimum-effort](https://github.com/GOKUL-A-N/Leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -485,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/GOKUL-A-N/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GOKUL-A-N/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/GOKUL-A-N/Leetcode/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/GOKUL-A-N/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [3463-alternating-groups-i](https://github.com/GOKUL-A-N/Leetcode/tree/master/3463-alternating-groups-i) |
 ## Stack
 |  |
@@ -550,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/GOKUL-A-N/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GOKUL-A-N/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/GOKUL-A-N/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/GOKUL-A-N/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/GOKUL-A-N/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/GOKUL-A-N/Leetcode/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GOKUL-A-N/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
