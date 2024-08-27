@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/GOKUL-A-N/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/GOKUL-A-N/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/GOKUL-A-N/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3516-design-neighbor-sum-service](https://github.com/GOKUL-A-N/Leetcode/tree/master/3516-design-neighbor-sum-service) |
 | [3533-snake-in-matrix](https://github.com/GOKUL-A-N/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Sorting
 |  |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2634-minimum-common-value](https://github.com/GOKUL-A-N/Leetcode/tree/master/2634-minimum-common-value) |
 | [3447-clear-digits](https://github.com/GOKUL-A-N/Leetcode/tree/master/3447-clear-digits) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/GOKUL-A-N/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3516-design-neighbor-sum-service](https://github.com/GOKUL-A-N/Leetcode/tree/master/3516-design-neighbor-sum-service) |
 ## Binary Search
 |  |
 | ------- |
@@ -350,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/GOKUL-A-N/Leetcode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/GOKUL-A-N/Leetcode/tree/master/1036-rotting-oranges) |
 | [1753-path-with-minimum-effort](https://github.com/GOKUL-A-N/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [3516-design-neighbor-sum-service](https://github.com/GOKUL-A-N/Leetcode/tree/master/3516-design-neighbor-sum-service) |
 ## Math
 |  |
 | ------- |
@@ -525,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2470-removing-stars-from-a-string](https://github.com/GOKUL-A-N/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3226-minimum-number-game](https://github.com/GOKUL-A-N/Leetcode/tree/master/3226-minimum-number-game) |
 | [3447-clear-digits](https://github.com/GOKUL-A-N/Leetcode/tree/master/3447-clear-digits) |
+| [3516-design-neighbor-sum-service](https://github.com/GOKUL-A-N/Leetcode/tree/master/3516-design-neighbor-sum-service) |
 | [3533-snake-in-matrix](https://github.com/GOKUL-A-N/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Dynamic Programming
 |  |
@@ -620,6 +624,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0816-design-hashset](https://github.com/GOKUL-A-N/Leetcode/tree/master/0816-design-hashset) |
 | [0838-design-linked-list](https://github.com/GOKUL-A-N/Leetcode/tree/master/0838-design-linked-list) |
 | [1023-time-based-key-value-store](https://github.com/GOKUL-A-N/Leetcode/tree/master/1023-time-based-key-value-store) |
+| [3516-design-neighbor-sum-service](https://github.com/GOKUL-A-N/Leetcode/tree/master/3516-design-neighbor-sum-service) |
 ## Data Stream
 |  |
 | ------- |
