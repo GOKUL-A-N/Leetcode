@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/GOKUL-A-N/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/GOKUL-A-N/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/GOKUL-A-N/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/GOKUL-A-N/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/GOKUL-A-N/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0816-design-hashset](https://github.com/GOKUL-A-N/Leetcode/tree/master/0816-design-hashset) |
 | [0835-linked-list-components](https://github.com/GOKUL-A-N/Leetcode/tree/master/0835-linked-list-components) |
