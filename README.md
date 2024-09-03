@@ -377,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/GOKUL-A-N/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GOKUL-A-N/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/GOKUL-A-N/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0319-bulb-switcher](https://github.com/GOKUL-A-N/Leetcode/tree/master/0319-bulb-switcher) |
 | [0380-insert-delete-getrandom-o1](https://github.com/GOKUL-A-N/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1013-fibonacci-number](https://github.com/GOKUL-A-N/Leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/GOKUL-A-N/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -675,6 +676,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/GOKUL-A-N/Leetcode/tree/master/0319-bulb-switcher) |
 | [1086-divisor-game](https://github.com/GOKUL-A-N/Leetcode/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
