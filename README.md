@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-backspace-string-compare](https://github.com/GOKUL-A-N/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0990-verifying-an-alien-dictionary](https://github.com/GOKUL-A-N/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/GOKUL-A-N/Leetcode/tree/master/1023-time-based-key-value-store) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/GOKUL-A-N/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/GOKUL-A-N/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/GOKUL-A-N/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2470-removing-stars-from-a-string](https://github.com/GOKUL-A-N/Leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1023-time-based-key-value-store](https://github.com/GOKUL-A-N/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1319-unique-number-of-occurrences](https://github.com/GOKUL-A-N/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/GOKUL-A-N/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/GOKUL-A-N/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/GOKUL-A-N/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/GOKUL-A-N/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2634-minimum-common-value](https://github.com/GOKUL-A-N/Leetcode/tree/master/2634-minimum-common-value) |
