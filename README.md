@@ -381,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0172-factorial-trailing-zeroes](https://github.com/GOKUL-A-N/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0319-bulb-switcher](https://github.com/GOKUL-A-N/Leetcode/tree/master/0319-bulb-switcher) |
 | [0380-insert-delete-getrandom-o1](https://github.com/GOKUL-A-N/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0507-perfect-number](https://github.com/GOKUL-A-N/Leetcode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/GOKUL-A-N/Leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/GOKUL-A-N/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1086-divisor-game](https://github.com/GOKUL-A-N/Leetcode/tree/master/1086-divisor-game) |
