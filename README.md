@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0816-design-hashset](https://github.com/GOKUL-A-N/Leetcode/tree/master/0816-design-hashset) |
 | [0835-linked-list-components](https://github.com/GOKUL-A-N/Leetcode/tree/master/0835-linked-list-components) |
 | [0838-design-linked-list](https://github.com/GOKUL-A-N/Leetcode/tree/master/0838-design-linked-list) |
+| [1582-design-browser-history](https://github.com/GOKUL-A-N/Leetcode/tree/master/1582-design-browser-history) |
 | [1765-merge-in-between-linked-lists](https://github.com/GOKUL-A-N/Leetcode/tree/master/1765-merge-in-between-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/GOKUL-A-N/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/GOKUL-A-N/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/GOKUL-A-N/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/GOKUL-A-N/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/GOKUL-A-N/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1582-design-browser-history](https://github.com/GOKUL-A-N/Leetcode/tree/master/1582-design-browser-history) |
 | [1706-min-cost-to-connect-all-points](https://github.com/GOKUL-A-N/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/GOKUL-A-N/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/GOKUL-A-N/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -535,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0776-n-ary-tree-postorder-traversal](https://github.com/GOKUL-A-N/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/GOKUL-A-N/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0883-car-fleet](https://github.com/GOKUL-A-N/Leetcode/tree/master/0883-car-fleet) |
+| [1582-design-browser-history](https://github.com/GOKUL-A-N/Leetcode/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/GOKUL-A-N/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/GOKUL-A-N/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/GOKUL-A-N/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
@@ -648,11 +651,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0816-design-hashset](https://github.com/GOKUL-A-N/Leetcode/tree/master/0816-design-hashset) |
 | [0838-design-linked-list](https://github.com/GOKUL-A-N/Leetcode/tree/master/0838-design-linked-list) |
 | [1023-time-based-key-value-store](https://github.com/GOKUL-A-N/Leetcode/tree/master/1023-time-based-key-value-store) |
+| [1582-design-browser-history](https://github.com/GOKUL-A-N/Leetcode/tree/master/1582-design-browser-history) |
 | [3516-design-neighbor-sum-service](https://github.com/GOKUL-A-N/Leetcode/tree/master/3516-design-neighbor-sum-service) |
 ## Data Stream
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GOKUL-A-N/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1582-design-browser-history](https://github.com/GOKUL-A-N/Leetcode/tree/master/1582-design-browser-history) |
 ## Trie
 |  |
 | ------- |
@@ -727,4 +732,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/GOKUL-A-N/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/GOKUL-A-N/Leetcode/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
