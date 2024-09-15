@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/GOKUL-A-N/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0782-jewels-and-stones](https://github.com/GOKUL-A-N/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/GOKUL-A-N/Leetcode/tree/master/0874-backspace-string-compare) |
+| [0965-unique-email-addresses](https://github.com/GOKUL-A-N/Leetcode/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/GOKUL-A-N/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/GOKUL-A-N/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/GOKUL-A-N/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/GOKUL-A-N/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/GOKUL-A-N/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/GOKUL-A-N/Leetcode/tree/master/0948-sort-an-array) |
+| [0965-unique-email-addresses](https://github.com/GOKUL-A-N/Leetcode/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/GOKUL-A-N/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1014-k-closest-points-to-origin](https://github.com/GOKUL-A-N/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/GOKUL-A-N/Leetcode/tree/master/1036-rotting-oranges) |
@@ -237,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0782-jewels-and-stones](https://github.com/GOKUL-A-N/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/GOKUL-A-N/Leetcode/tree/master/0816-design-hashset) |
 | [0835-linked-list-components](https://github.com/GOKUL-A-N/Leetcode/tree/master/0835-linked-list-components) |
+| [0965-unique-email-addresses](https://github.com/GOKUL-A-N/Leetcode/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/GOKUL-A-N/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/GOKUL-A-N/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1319-unique-number-of-occurrences](https://github.com/GOKUL-A-N/Leetcode/tree/master/1319-unique-number-of-occurrences) |
